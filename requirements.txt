@@ -1,0 +1,20 @@
+# utilities
+numpy
+pandas
+
+# face recognition
+scikit-learn
+dlib-bin
+
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+
+
+supabase  # it will give 1-2 GB data 
+bcrypt     # hasing ka method for password security
+
+segno  # for QR code generation
+pillow  # for image processing
+
+streamlit  # for web app development
